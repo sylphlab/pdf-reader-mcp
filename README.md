@@ -12,6 +12,10 @@
 
 Empower your AI agents (like Cline) with the ability to securely read and extract information (text, metadata, page count) from PDF files within your project context using a single, flexible tool.
 
+<a href="https://glama.ai/mcp/servers/@sylphlab/pdf-reader-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@sylphlab/pdf-reader-mcp/badge" alt="PDF Reader Server MCP server" />
+</a>
+
 ## Installation
 
 ### Using npm (Recommended)
